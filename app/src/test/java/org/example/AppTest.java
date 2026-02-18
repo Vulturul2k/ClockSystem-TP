@@ -14,8 +14,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class AppTest {
     @Test
     void appHasAGreeting() throws FontFormatException, IOException {
-        org.junit.jupiter.api.Assumptions.assumeFalse(GraphicsEnvironment.isHeadless(),
-                "Skipping GUI test in headless environment");
         // App classUnderTest = new App();
         ClockFrame clock = new ClockFrame();
         assertNotNull(clock, "app should have a greeting");
