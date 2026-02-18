@@ -2,6 +2,7 @@
 [![Java CI with Gradle](https://github.com/Vulturul2k/ClockSystem-TP/actions/workflows/gradle.yml/badge.svg)](https://github.com/Vulturul2k/ClockSystem-TP/actions/workflows/gradle.yml)
 [![PMD Analysis](https://github.com/Vulturul2k/ClockSystem-TP/actions/workflows/pmd.yml/badge.svg)](https://github.com/Vulturul2k/ClockSystem-TP/actions/workflows/pmd.yml)
 [![CodeQL Advanced](https://github.com/Vulturul2k/ClockSystem-TP/actions/workflows/codeql.yml/badge.svg)](https://github.com/Vulturul2k/ClockSystem-TP/actions/workflows/codeql.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Vulturul2k/ClockSystem-TP/badge)](https://scorecard.dev/viewer/?uri=github.com/Vulturul2k/ClockSystem-TP)
 
 This is a gradle-based Java project for a Clock with Swing GUI and JUnit5 unit tests. It has been created and used by Tom Mens for educational purposes at the University of Mons.
 
